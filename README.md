@@ -1,2 +1,2 @@
 # myappsample
-Sample app for git
+This is a sample app for git
